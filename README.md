@@ -34,7 +34,7 @@ security methodology.
 - [Agent Sudo](Medium/AgentSudo)
 
 ### 🔴 Hard
-- Coming soon
+- [Robots](Hard/Robots)
 
 ---
 
