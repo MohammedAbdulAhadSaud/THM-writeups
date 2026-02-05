@@ -1,0 +1,16 @@
+EASY
+
+
+
+MEDUIM
+
+
+
+HARD
+
+
+
+INSANE
+
+
+
