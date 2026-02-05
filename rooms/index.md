@@ -18,7 +18,7 @@ exploitation, and privilege escalation.
 ---
 
 ## 🔴 HARD
-- [Robots](robots)
+- [Robots](robots.md)
 
 ---
 
