@@ -1,3 +1,4 @@
+```bash
 Starting Nmap 7.98 ( https://nmap.org ) at 2026-02-05 15:31 +0530
 Nmap scan report for 10.80.150.205
 Host is up (0.20s latency).
@@ -16,3 +17,4 @@ Service Info: Host: robots.thm
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 39.37 seconds
+```
